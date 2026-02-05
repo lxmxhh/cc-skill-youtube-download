@@ -1,0 +1,22 @@
+{
+  "default_quality": "1080p",
+  "default_output_dir": "~/Downloads/YouTube",
+  "auto_download_subtitles": false,
+  "preferred_subtitle_languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "cookies_path": "./cookies.txt",
+  "max_concurrent_downloads": 3,
+  "enable_download_history": true,
+  "auto_convert_to_mp4": true,
+  "preferred_browsers": [
+    "chrome",
+    "firefox",
+    "edge",
+    "safari"
+  ]
+}
