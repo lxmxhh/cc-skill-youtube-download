@@ -16,7 +16,7 @@
 ### 方法 1: 使用 Claude Code CLI (推荐)
 
 ```bash
-npx skills add .claude/skills/youtube-download
+npx skills add https://github.com/lxmxhh/cc-skill-youtube-download.git
 ```
 
 ### 方法 2: 手动安装
