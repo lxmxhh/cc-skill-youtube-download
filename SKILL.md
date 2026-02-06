@@ -1,3 +1,11 @@
+---
+name: youtube-download
+description: A smart YouTube video downloader with multiple strategies, auto-retry, intelligent cookie management, and subtitle support
+trigger: /youtube-download
+version: 1.0.0
+author: lxmxhh
+---
+
 # YouTube 视频下载工具
 
 > 一个智能的 YouTube 视频下载工具，支持多种下载策略，自动重试直到成功
